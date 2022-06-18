@@ -1,5 +1,5 @@
-### Hi there 👋
-![76722764_2412018379072069_786650687923552256_n](https://user-images.githubusercontent.com/68491477/174457903-36615acc-2b14-4a33-8ad9-f23cfe2e9fd1.jpg)
+### Hi, I'm Luis 👋👩🏾‍💻
+
 
 
 
