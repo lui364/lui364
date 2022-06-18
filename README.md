@@ -1,4 +1,7 @@
 ### Hi there 👋
+![76722764_2412018379072069_786650687923552256_n](https://user-images.githubusercontent.com/68491477/174457903-36615acc-2b14-4a33-8ad9-f23cfe2e9fd1.jpg)
+
+
 
 <!--
 **lui364/lui364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
