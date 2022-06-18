@@ -1,6 +1,6 @@
 ### Hi, I'm Luis 👋👩🏾‍💻
 
-[Programador web.pdf](https://github.com/lui364/lui364/files/8934491/Programador.web.pdf)
+![Programador web_page-0001](https://user-images.githubusercontent.com/68491477/174459783-0c3ff208-29e1-4f87-8c64-ca940784c814.jpg)
 
 
 <!--
