@@ -19,7 +19,7 @@
 
 
 
-- 💻 &nbsp; C# | Java | Sql Serves | oracle 
+- 💻 &nbsp; C# | Java | Sql Serves | Oracle 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
 
