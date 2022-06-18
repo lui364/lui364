@@ -2,13 +2,6 @@
 
 ![Programador web_page-0001](https://user-images.githubusercontent.com/68491477/174459817-0d2eaf33-31b2-427c-93c6-3d21d723f61d.jpg)
 
-
-<!--
-**lui364/lui364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
