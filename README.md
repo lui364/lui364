@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=abdullahalrifat.abdullahalrifat)
+![rifat's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
