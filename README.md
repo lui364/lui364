@@ -1,6 +1,6 @@
 ### Hi, I'm Luis 👋👩🏾‍💻
 
-![Programador web_page-0001](https://user-images.githubusercontent.com/68491477/174459783-0c3ff208-29e1-4f87-8c64-ca940784c814.jpg)
+![Programador web_page-0001](https://user-images.githubusercontent.com/68491477/174459817-0d2eaf33-31b2-427c-93c6-3d21d723f61d.jpg)
 
 
 <!--
