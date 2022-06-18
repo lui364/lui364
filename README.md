@@ -2,13 +2,24 @@
 
 ![Programador web_page-0001](https://user-images.githubusercontent.com/68491477/174459817-0d2eaf33-31b2-427c-93c6-3d21d723f61d.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 👨🏻•💻 About Me </h3>
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+
+- 🎓 &nbsp; studying software development.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; C# | Java | Sql Serves | oracle 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
 
